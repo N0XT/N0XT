@@ -1,4 +1,4 @@
 
 ### This is my old repository!
  
-> You can check mine [HERE](https://www.github.com/ivanbogaeb) 🔥
+> You can check my new one [HERE](https://www.github.com/ivanbogaeb) 🔥
